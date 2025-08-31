@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Sai Ram Kasanagottu</h1>
+<h3 align="center">Computer Vision, Deep Learning and Robotics Researcher | ML Research Engineer | Passionate about pushing the boundaries of Perception in Robotics and building impactful solutions</h3>
 <!--
 **supersai007/supersai007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
