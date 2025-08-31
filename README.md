@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently pursuing Ph.D in **Computer Science** at **Stony Brook University**
 - 💬 Ask me about **CNNs, DNNs, Transformers, OpenCV, Robotics, Python, Machine Learning, Computer Vision - Segmentation, Pose Estimation, Captionining, Spatial Reasoning or any thing**
+- 📫 How to reach me: skasanagottu@cs.stonybrook.edu
 - 
 <!--
 **supersai007/supersai007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
