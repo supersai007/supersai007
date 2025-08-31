@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Sai Ram Kasanagottu</h1>
 <h3 align="center">Computer Vision, Deep Learning and Robotics Researcher | ML Research Engineer | Passionate about pushing the boundaries of Perception in Robotics and building impactful solutions</h3>
+
+- 🔭 I’m currently pursuing Ph.D in **Computer Science** at **Stony Brook University**
+- 💬 Ask me about **CNNs, DNNs, Transformers, OpenCV, Robotics, Python, Machine Learning, Computer Vision - Segmentation, Pose Estimation, Captionining, Spatial Reasoning or any thing**
+- 
 <!--
 **supersai007/supersai007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
